@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\view\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:view\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\model\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:model\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|c:\\users\\alastair\\documents\\contentinator\\echovid\\view\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D984CB4-7A43-4977-88CC-81E502F3CB92}|EchoVid.csproj|solutionrelative:view\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\Model\\Home.cs",
+              "RelativeDocumentMoniker": "Model\\Home.cs",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\Model\\Home.cs",
+              "RelativeToolTip": "Model\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:53:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:23:40.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T21:03:55.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\AboutPage.xaml.cs",
+              "RelativeToolTip": "View\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:59:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:34:44.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T17:34:54.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "View\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\EchoVid\\View\\AboutPage.xaml",
+              "RelativeToolTip": "View\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T20:55:37.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
