@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EchoVid.Model.Data
+{
+    public class PlatformConfig
+    {
+        public string? ClientKey;
+        public string? ClientSecret;
+    }
+}

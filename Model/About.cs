@@ -10,7 +10,7 @@ namespace EchoVid.Model
     {
         public string Title => AppInfo.Name;
         public string Version => AppInfo.VersionString;
-        public string MoreInfoUrl => "https://marguhrita.github.io/Contentinator/";
+        public string MoreInfoUrl => "https://www.google.com";
         public string Message => "This app is written in XAML and C# with .NET MAUI.";
     }
 }

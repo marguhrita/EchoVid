@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="EchoVid.View.MainPage">
+             x:Class="EchoVid.View.MainPage"
+             xmlns:platforms="clr-namespace:EchoVid.Model.Platforms">
+
+    <ContentPage.BindingContext>
+        <platforms:TikTok/>
+    </ContentPage.BindingContext>
 
     <Grid RowDefinitions="100, Auto, *"
           ColumnDefinitions=".50*, .50*"
@@ -13,14 +18,18 @@
                Source="logo.png"
                BackgroundColor="LightSeaGreen"/>
 
-        <Button Text="Upload Item"
+        <Button Text="Login with TikTok"
                 Grid.ColumnSpan="2"
                 Grid.Row="1"
                 Padding="20"
                 FontSize="Large"
                 FontAutoScalingEnabled="True"
                 Margin="10"
+                Clicked="TikTokLogin_Clicked"
                 />
+
+        <Label Text="{Binding test}"
+               Grid.Row="2"/>
 
 
     </Grid>
