@@ -4,20 +4,23 @@
              x:Class="EchoVid.View.MainPage">
 
     <Grid RowDefinitions="100, Auto, *"
-          ColumnDefinitions=".75*, .25*"
+          ColumnDefinitions=".50*, .50*"
           Padding="0"
+          RowSpacing="10"
           ColumnSpacing="10">
 
         <Image Grid.ColumnSpan="2"
-                Source="dotnet_bot.png"
-               BackgroundColor="Orange"/>
+               Source="logo.png"
+               BackgroundColor="LightSeaGreen"/>
 
-        <Entry Placeholder="Enter task"
-               Grid.Row="1"/>
-
-        <Button Text="Add"
+        <Button Text="Upload Item"
+                Grid.ColumnSpan="2"
                 Grid.Row="1"
-                Grid.Column="1"/>
+                Padding="20"
+                FontSize="Large"
+                FontAutoScalingEnabled="True"
+                Margin="10"
+                />
 
 
     </Grid>

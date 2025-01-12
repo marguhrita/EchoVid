@@ -1,0 +1,4 @@
+C:\Users\Alastair\Documents\Contentinator\EchoVid\bin\Release\net8.0-android\publish\com.companyname.echovid-Signed.aab
+C:\Users\Alastair\Documents\Contentinator\EchoVid\bin\Release\net8.0-android\publish\com.companyname.echovid.aab
+C:\Users\Alastair\Documents\Contentinator\EchoVid\bin\Release\net8.0-android\publish\com.companyname.echovid-Signed.apk
+C:\Users\Alastair\Documents\Contentinator\EchoVid\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll

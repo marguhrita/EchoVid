@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoVid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cbe2e8109e585dc17f24a67bdfcb4c32eba7c730")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6b4732630c009a95188a4eecb6cbad27f667b2d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoVid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoVid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

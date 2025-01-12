@@ -214,6 +214,15 @@
     <AppxPackagedFile Include="C:\Users\Alastair\Documents\Contentinator\EchoVid\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alastair\Documents\Contentinator\EchoVid\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_about.scale-100.png">
+      <PackagePath>icon_about.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alastair\Documents\Contentinator\EchoVid\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_notes.scale-100.png">
+      <PackagePath>icon_notes.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alastair\Documents\Contentinator\EchoVid\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alastair\Documents\Contentinator\EchoVid\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EchoVid.deps.json">
       <PackagePath>EchoVid.deps.json</PackagePath>
     </AppxPackagedFile>
