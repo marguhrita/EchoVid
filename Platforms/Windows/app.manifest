@@ -2,7 +2,7 @@
 <assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
   <assemblyIdentity version="1.0.0.0" name="EchoVid.WinUI.app"/>
 
-  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">await Launcher.Default.OpenAsync(authUrl)
     <windowsSettings>
       <!-- The combination of below two tags have the following effect:
            1) Per-Monitor for >= Windows 10 Anniversary Update

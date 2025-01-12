@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace EchoVid.Model.Data
 {
-    public class PlatformConfig
+    public class TiktokApiResponse
     {
-        public string? ClientKey;
-        public string? ClientSecret;
+
     }
+
+
+
 }

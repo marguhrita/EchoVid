@@ -2,13 +2,15 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="EchoVid.View.MainPage"
-             xmlns:platforms="clr-namespace:EchoVid.Model.Platforms">
+             xmlns:platforms="clr-namespace:EchoVid.Model.Platforms"
+             BackgroundColor="DarkSlateGrey"
+             >
 
     <ContentPage.BindingContext>
         <platforms:TikTok/>
     </ContentPage.BindingContext>
 
-    <Grid RowDefinitions="100, Auto, *"
+    <Grid RowDefinitions="100, Auto, 100, 100"
           ColumnDefinitions=".50*, .50*"
           Padding="0"
           RowSpacing="10"
@@ -28,8 +30,10 @@
                 Clicked="TikTokLogin_Clicked"
                 />
 
-        <Label Text="{Binding test}"
-               Grid.Row="2"/>
+        <Button Text="{Binding Authenticated}"
+               Grid.Row="2"
+               FontSize="22"/>
+
 
 
     </Grid>

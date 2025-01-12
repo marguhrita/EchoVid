@@ -486,3 +486,5 @@ keys.json
 *.vsidx
 *.json
 *.bin
+Properties/launchSettings.json
+Properties/launchSettings.json
